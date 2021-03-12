@@ -1,36 +1,42 @@
 ! Захарова, Мария Владимировна
 google.*##.g,.JJZKK,.VibNM:has-text(/мари(я|и|е|ю|ей) захаров/i)
 yandex.ru##.serp-item:has-text(/мари(я|и|е|ю|ей) захаров/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/мари(я|и|е|ю|ей) захаров/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/мари(я|и|е|ю|ей) захаров/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/мари(я|и|е|ю|ей) захаров/i)
 youtube.com###dismissible:has-text(/мари(я|и|е|ю|ей) захаров/i)
 
 ! Лавров, Сергей Викторович
 google.*##.g,.JJZKK,.VibNM:has-text(/серге(й|я|ю|ем|е) лавров/i)
 yandex.ru##.serp-item:has-text(/серге(й|я|ю|ем|е) лавров/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/серге(й|я|ю|ем|е) лавров/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/серге(й|я|ю|ем|е) лавров/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/серге(й|я|ю|ем|е) лавров/i)
 youtube.com###dismissible:has-text(/серге(й|я|ю|ем|е) лавров/i)
 
 ! Мишустин, Михаил Владимирович
 google.*##.g,.JJZKK,.VibNM:has-text(/мишустин/i)
 yandex.ru##.serp-item:has-text(/мишустин/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/мишустин/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/мишустин/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/мишустин/i)
 youtube.com###dismissible:has-text(/мишустин/i)
 
 ! Песков, Дмитрий Сергеевич
 google.*##.g,.JJZKK,.VibNM:has-text(/дмитри(й|я|ю|ем|е) песков/i)
 yandex.ru##.serp-item:has-text(/дмитри(й|я|ю|ем|е) песков/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/дмитри(й|я|ю|ем|е) песков/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/дмитри(й|я|ю|ем|е) песков/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/дмитри(й|я|ю|ем|е) песков/i)
 youtube.com###dismissible:has-text(/дмитри(й|я|ю|ем|е) песков/i)
 
 ! Путин, Владимир Владимирович
 google.*##.g,.JJZKK,.VibNM:has-text(/(?<!рас)путин(?!цев)/i)
 yandex.ru##.serp-item:has-text(/(?<!рас)путин(?!цев)/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/(?<!рас)путин(?!цев)/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/(?<!рас)путин(?!цев)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(?<!рас)путин(?!цев)/i)
 youtube.com###dismissible:has-text(/(?<!рас)путин(?!цев)/i)
 
 ! Собянин, Сергей Семёнович
 google.*##.g,.JJZKK,.VibNM:has-text(/серге(й|я|ю|ем|е) собянин/i)
 yandex.ru##.serp-item:has-text(/серге(й|я|ю|ем|е) собянин/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/серге(й|я|ю|ем|е) собянин/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/серге(й|я|ю|ем|е) собянин/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/серге(й|я|ю|ем|е) собянин/i)
 youtube.com###dismissible:has-text(/серге(й|я|ю|ем|е) собянин/i)
 

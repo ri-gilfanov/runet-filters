@@ -1,30 +1,35 @@
 ! Oxxxymiron
 google.*##.g,.JJZKK,.VibNM:has-text(/oxxxymiron/i)
 yandex.ru##.serp-item:has-text(/oxxxymiron/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/oxxxymiron/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/oxxxymiron/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/oxxxymiron/i)
 youtube.com###dismissible:has-text(/oxxxymiron/i)
 
 ! Бузова, Ольга Игоревна
 google.*##.g,.JJZKK,.VibNM:has-text(/ольг(а|у|е|ой) бузов/i)
 yandex.ru##.serp-item:has-text(/ольг(а|у|е|ой) бузов/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/ольг(а|у|е|ой) бузов/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/ольг(а|у|е|ой) бузов/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/ольг(а|у|е|ой) бузов/i)
 youtube.com###dismissible:has-text(/ольг(а|у|е|ой) бузов/i)
 
 ! Крид, Егор
 google.*##.g,.JJZKK,.VibNM:has-text(/егор(а|у|ом|е?) крид/i)
 yandex.ru##.serp-item:has-text(/егор(а|у|ом|е?) крид/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/егор(а|у|ом|е?) крид/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/егор(а|у|ом|е?) крид/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/егор(а|у|ом|е?) крид/i)
 youtube.com###dismissible:has-text(/егор(а|у|ом|е?) крид/i)
 
 ! Михайлов, Стас
 google.*##.g,.JJZKK,.VibNM:has-text(/стас(а|у|ом|е) михайлов/i)
 yandex.ru##.serp-item:has-text(/стас(а|у|ом|е) михайлов/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/стас(а|у|ом|е) михайлов/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/стас(а|у|ом|е) михайлов/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/стас(а|у|ом|е) михайлов/i)
 youtube.com###dismissible:has-text(/стас(а|у|ом|е) михайлов/i)
 
 ! Пошлая Молли
 google.*##.g,.JJZKK,.VibNM:has-text(/пошл(ая|ой|ую) молли/i)
 yandex.ru##.serp-item:has-text(/пошл(ая|ой|ую) молли/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/пошл(ая|ой|ую) молли/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/пошл(ая|ой|ую) молли/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/пошл(ая|ой|ую) молли/i)
 youtube.com###dismissible:has-text(/пошл(ая|ой|ую) молли/i)
 

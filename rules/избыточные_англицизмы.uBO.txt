@@ -1,6 +1,7 @@
 ! Кринж
 google.*##.g,.JJZKK,.VibNM:has-text(/кринж/i)
 yandex.ru##.serp-item:has-text(/кринж/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/кринж/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/кринж/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/кринж/i)
 youtube.com###dismissible:has-text(/кринж/i)
 

@@ -1,30 +1,35 @@
 ! Волков, Леонид Михайлович
 google.*##.g,.JJZKK,.VibNM:has-text(/леонид(а|у|ом|е?) волков/i)
 yandex.ru##.serp-item:has-text(/леонид(а|у|ом|е?) волков/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/леонид(а|у|ом|е?) волков/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/леонид(а|у|ом|е?) волков/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/леонид(а|у|ом|е?) волков/i)
 youtube.com###dismissible:has-text(/леонид(а|у|ом|е?) волков/i)
 
 ! Навальный, Алексей Анатольевич
 google.*##.g,.JJZKK,.VibNM:has-text(/навальн|navalny/i)
 yandex.ru##.serp-item:has-text(/навальн|navalny/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/навальн|navalny/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/навальн|navalny/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/навальн|navalny/i)
 youtube.com###dismissible:has-text(/навальн|navalny/i)
 
 ! Соболь, Любовь Эдуардовна
 google.*##.g,.JJZKK,.VibNM:has-text(/люб(о?)[в](ь(ю?)|и) соболь/i)
 yandex.ru##.serp-item:has-text(/люб(о?)[в](ь(ю?)|и) соболь/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/люб(о?)[в](ь(ю?)|и) соболь/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/люб(о?)[в](ь(ю?)|и) соболь/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/люб(о?)[в](ь(ю?)|и) соболь/i)
 youtube.com###dismissible:has-text(/люб(о?)[в](ь(ю?)|и) соболь/i)
 
 ! Собчак, Ксения Анатольевна
 google.*##.g,.JJZKK,.VibNM:has-text(/ксени(я|и|е|ию|ей) собчак/i)
 yandex.ru##.serp-item:has-text(/ксени(я|и|е|ию|ей) собчак/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/ксени(я|и|е|ию|ей) собчак/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/ксени(я|и|е|ию|ей) собчак/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/ксени(я|и|е|ию|ей) собчак/i)
 youtube.com###dismissible:has-text(/ксени(я|и|е|ию|ей) собчак/i)
 
 ! Дудь, Юрий Александрович
 google.*##.g,.JJZKK,.VibNM:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i)
 yandex.ru##.serp-item:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i)
-vk.com##.post_author,.video_item,.wall_text:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i)
 youtube.com###dismissible:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i)
 
