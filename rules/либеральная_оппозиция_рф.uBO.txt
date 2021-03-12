@@ -22,3 +22,9 @@ yandex.ru##.serp-item:has-text(/ксени(я|и|е|ию|ей) собчак/i)
 vk.com##.post_author,.video_item,.wall_text:has-text(/ксени(я|и|е|ию|ей) собчак/i):upward(.post)
 youtube.com###dismissible:has-text(/ксени(я|и|е|ию|ей) собчак/i)
 
+! Дудь, Юрий Александрович
+google.*##.g,.JJZKK,.VibNM:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i)
+yandex.ru##.serp-item:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i)
+vk.com##.post_author,.video_item,.wall_text:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i):upward(.post)
+youtube.com###dismissible:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i)
+

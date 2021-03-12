@@ -16,10 +16,15 @@ yandex.ru##.serp-item:has-text(/егор(а|у|ом|е?) крид/i)
 vk.com##.post_author,.video_item,.wall_text:has-text(/егор(а|у|ом|е?) крид/i):upward(.post)
 youtube.com###dismissible:has-text(/егор(а|у|ом|е?) крид/i)
 
-
 ! Михайлов, Стас
 google.*##.g,.JJZKK,.VibNM:has-text(/стас(а|у|ом|е) михайлов/i)
 yandex.ru##.serp-item:has-text(/стас(а|у|ом|е) михайлов/i)
 vk.com##.post_author,.video_item,.wall_text:has-text(/стас(а|у|ом|е) михайлов/i):upward(.post)
 youtube.com###dismissible:has-text(/стас(а|у|ом|е) михайлов/i)
+
+! Пошлая Молли
+google.*##.g,.JJZKK,.VibNM:has-text(/пошл(ая|ой|ую) молли/i)
+yandex.ru##.serp-item:has-text(/пошл(ая|ой|ую) молли/i)
+vk.com##.post_author,.video_item,.wall_text:has-text(/пошл(ая|ой|ую) молли/i):upward(.post)
+youtube.com###dismissible:has-text(/пошл(ая|ой|ую) молли/i)
 
