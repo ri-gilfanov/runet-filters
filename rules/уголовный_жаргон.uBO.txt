@@ -1,0 +1,12 @@
+! Зашквар
+google.*##.g,.JJZKK,.VibNM:has-text(/зашквар/i)
+yandex.ru##.serp-item:has-text(/зашквар/i)
+vk.com##.post_author,.video_item,.wall_text:has-text(/зашквар/i)
+youtube.com###dismissible:has-text(/зашквар/i)
+
+! Фраер
+google.*##.g,.JJZKK,.VibNM:has-text(/фра(й?)ер/i)
+yandex.ru##.serp-item:has-text(/фра(й?)ер/i)
+vk.com##.post_author,.video_item,.wall_text:has-text(/фра(й?)ер/i):upward(.post)
+youtube.com###dismissible:has-text(/фра(й?)ер/i)
+
