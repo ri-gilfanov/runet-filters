@@ -1,7 +1,30 @@
 ! Кринж
-google.*##.g,.JJZKK,.VibNM:has-text(/кринж/i)
-yandex.ru##.serp-item:has-text(/кринж/i)
 vk.com##.post_author,.wall_text:has-text(/кринж/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/кринж/i)
 youtube.com###dismissible:has-text(/кринж/i)
+
+! Рашка
+vk.com##.post_author,.wall_text:has-text(/(?<!ба)рашк(а|и|е|у|ой)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(?<!ба)рашк(а|и|е|у|ой)/i)
+youtube.com###dismissible:has-text(/(?<!ба)рашк(а|и|е|у|ой)/i)
+
+! Рофл
+vk.com##.post_author,.wall_text:has-text(/рофл/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/рофл/i)
+youtube.com###dismissible:has-text(/рофл/i)
+
+! Фейк
+vk.com##.post_author,.wall_text:has-text(/фейк/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/фейк/i)
+youtube.com###dismissible:has-text(/фейк/i)
+
+! Флексить
+vk.com##.post_author,.wall_text:has-text(/флекс(шу|ит|им|ят|ил)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/флекс(шу|ит|им|ят|ил)/i)
+youtube.com###dismissible:has-text(/флекс(шу|ит|им|ят|ил)/i)
+
+! Форсить
+vk.com##.post_author,.wall_text:has-text(/фор(шу|сит|сим|сят|ил)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/фор(шу|сит|сим|сят|ил)/i)
+youtube.com###dismissible:has-text(/фор(шу|сит|сим|сят|ил)/i)
 

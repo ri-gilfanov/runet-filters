@@ -1,13 +1,9 @@
 ! Зашквар
-google.*##.g,.JJZKK,.VibNM:has-text(/зашквар/i)
-yandex.ru##.serp-item:has-text(/зашквар/i)
 vk.com##.post_author,.wall_text:has-text(/зашквар/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/зашквар/i)
 youtube.com###dismissible:has-text(/зашквар/i)
 
 ! Фраер
-google.*##.g,.JJZKK,.VibNM:has-text(/фра(й?)ер/i)
-yandex.ru##.serp-item:has-text(/фра(й?)ер/i)
 vk.com##.post_author,.wall_text:has-text(/фра(й?)ер/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/фра(й?)ер/i)
 youtube.com###dismissible:has-text(/фра(й?)ер/i)

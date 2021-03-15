@@ -1,34 +1,24 @@
 ! Кургинян, Сергей Ервандович
-google.*##.g,.JJZKK,.VibNM:has-text(/серге(й|я|ю|ем|е) кургинян/i)
-yandex.ru##.serp-item:has-text(/серге(й|я|ю|ем|е) кургинян/i)
 vk.com##.post_author,.wall_text:has-text(/серге(й|я|ю|ем|е) кургинян/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/серге(й|я|ю|ем|е) кургинян/i)
 youtube.com###dismissible:has-text(/серге(й|я|ю|ем|е) кургинян/i)
 
 ! Прилепин, Захар (Евгений Николаевич)
-google.*##.g,.JJZKK,.VibNM:has-text(/захар(а|у|ом|е?) прилепин/i)
-yandex.ru##.serp-item:has-text(/захар(а|у|ом|е?) прилепин/i)
 vk.com##.post_author,.wall_text:has-text(/захар(а|у|ом|е?) прилепин/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/захар(а|у|ом|е?) прилепин/i)
 youtube.com###dismissible:has-text(/захар(а|у|ом|е?) прилепин/i)
 
 ! Сёмин, Константин Викторович
-google.*##.g,.JJZKK,.VibNM:has-text(/константин(а|у|ом|е) с(ё|е)мин/i)
-yandex.ru##.serp-item:has-text(/константин(а|у|ом|е) с(ё|е)мин/i)
 vk.com##.post_author,.wall_text:has-text(/константин(а|у|ом|е) с(ё|е)мин/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/константин(а|у|ом|е) с(ё|е)мин/i)
 youtube.com###dismissible:has-text(/константин(а|у|ом|е) с(ё|е)мин/i)
 
 ! Симоньян, Маргарита Симоновна
-google.*##.g,.JJZKK,.VibNM:has-text(/симоньян/i)
-yandex.ru##.serp-item:has-text(/симоньян/i)
 vk.com##.post_author,.wall_text:has-text(/симоньян/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/симоньян/i)
 youtube.com###dismissible:has-text(/симоньян/i)
 
 ! Соловьёв, Владимир Рудольфович
-google.*##.g,.JJZKK,.VibNM:has-text(/владимир(а|у|ом|е?) соловь(ё|е)в(а|у|ым|е?)/i)
-yandex.ru##.serp-item:has-text(/владимир(а|у|ом|е?) соловь(ё|е)в(а|у|ым|е?)/i)
 vk.com##.post_author,.wall_text:has-text(/владимир(а|у|ом|е?) соловь(ё|е)в(а|у|ым|е?)/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/владимир(а|у|ом|е?) соловь(ё|е)в(а|у|ым|е?)/i)
 youtube.com###dismissible:has-text(/владимир(а|у|ом|е?) соловь(ё|е)в(а|у|ым|е?)/i)
