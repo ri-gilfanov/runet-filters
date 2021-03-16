@@ -19,9 +19,9 @@ vk.com##.audio_row,.video_item:has-text(/дмитри(й|я|ю|ем|е) песк
 youtube.com###dismissible:has-text(/дмитри(й|я|ю|ем|е) песков/i)
 
 ! Путин, Владимир Владимирович
-vk.com##.post_author,.wall_text:has-text(/(?<!рас)путин(?!цев)/i):upward(.post)
-vk.com##.audio_row,.video_item:has-text(/(?<!рас)путин(?!цев)/i)
-youtube.com###dismissible:has-text(/(?<!рас)путин(?!цев)/i)
+vk.com##.post_author,.wall_text:has-text(/(^|\s)путин(?!цев)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(^|\s)путин(?!цев)/i)
+youtube.com###dismissible:has-text(/(^|\s)путин(?!цев)/i)
 
 ! Собянин, Сергей Семёнович
 vk.com##.post_author,.wall_text:has-text(/серге(й|я|ю|ем|е) собянин/i):upward(.post)
