@@ -1,3 +1,6 @@
+! Title: Либеральная оппозиция РФ
+! Expires: 1 days
+
 ! Волков, Леонид Михайлович
 vk.com##.post_author,.wall_text:has-text(/леонид(а|у|ом|е?) волков/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/леонид(а|у|ом|е?) волков/i)

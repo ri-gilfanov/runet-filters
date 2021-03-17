@@ -1,3 +1,6 @@
+! Title: Чиновники Украины
+! Expires: 1 days
+
 ! Зеленский, Владимир Александрович
 vk.com##.post_author,.wall_text:has-text(/владимир(а|у|ом|е?) зеленск/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/владимир(а|у|ом|е?) зеленск/i)

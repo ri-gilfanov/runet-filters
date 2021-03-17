@@ -1,3 +1,6 @@
+! Title: Чиновники РФ
+! Expires: 1 days
+
 ! Захарова, Мария Владимировна
 vk.com##.post_author,.wall_text:has-text(/мари(я|и|е|ю|ей) захаров/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/мари(я|и|е|ю|ей) захаров/i)

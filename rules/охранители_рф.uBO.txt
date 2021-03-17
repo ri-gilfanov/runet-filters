@@ -1,3 +1,6 @@
+! Title: Охранители РФ
+! Expires: 1 days
+
 ! Кургинян, Сергей Ервандович
 vk.com##.post_author,.wall_text:has-text(/серге(й|я|ю|ем|е) кургинян/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/серге(й|я|ю|ем|е) кургинян/i)

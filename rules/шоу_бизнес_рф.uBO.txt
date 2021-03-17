@@ -1,3 +1,6 @@
+! Title: Шоу-бизнес РФ
+! Expires: 1 days
+
 ! Comedy Club
 vk.com##.post_author,.wall_text:has-text(/Comedy Club/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/Comedy Club/i)
