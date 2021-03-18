@@ -1,0 +1,23 @@
+! Title: Политические ярлыки «левых»
+! Expires: 1 days
+
+! Ксенофобия/ксенофоб
+vk.com##.post_author,.wall_text:has-text(/ксенофоб/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/ксенофоб/i)
+youtube.com###dismissible:has-text(/ксенофоб/i)
+
+! Правак
+vk.com##.post_author,.wall_text:has-text(/(^|\s)права(к|цк|чес)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(^|\s)права(к|цк|чес)/i)
+youtube.com###dismissible:has-text(/(^|\s)права(к|цк|чес)/i)
+
+! Нацизм/расизм/фашизм/нацист/расист/фашист
+vk.com##.post_author,.wall_text:has-text(/(наци|раси|фаши)(зм|ст)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(наци|раси|фаши)(зм|ст)/i)
+youtube.com###dismissible:has-text(/(наци|раси|фаши)(зм|ст)/i)
+
+! Ультраправый
+vk.com##.post_author,.wall_text:has-text(/ультраправ/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/ультраправ/i)
+youtube.com###dismissible:has-text(/ультраправ/i)
+
