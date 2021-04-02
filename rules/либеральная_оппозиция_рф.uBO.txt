@@ -11,6 +11,11 @@ vk.com##.post_author,.wall_text:has-text(/вдудь|юри(й|я|ю|ем|и) д
 vk.com##.audio_row,.video_item:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i)
 youtube.com###dismissible:has-text(/вдудь|юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)/i)
 
+! Кац, Максим Евгеньевич
+vk.com##.post_author,.wall_text:has-text(/максим(а|у|ом|е?) кац(а|у|ом|е?)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/максим(а|у|ом|е?) кац(а|у|ом|е?)/i)
+youtube.com###dismissible:has-text(/максим(а|у|ом|е?) кац(а|у|ом|е?)/i)
+
 ! Навальный, Алексей Анатольевич
 vk.com##.post_author,.wall_text:has-text(/навальн|navalny/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/навальн|navalny/i)
