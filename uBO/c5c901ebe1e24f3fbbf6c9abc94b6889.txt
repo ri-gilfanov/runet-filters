@@ -1,0 +1,31 @@
+! Title: RuNet-Filters :: Политические ярлыки правых
+! Expires: 1 days
+
+! 109 031 (wordstat.yandex.ru от 05.10.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/геноцид/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/геноцид/i):upward(.post)
+
+! 148 696 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/гулаг/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/гулаг/i):upward(.post)
+
+! 9 459 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|^[Ё-ё])лева(к|цк|чес)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|^[Ё-ё])лева(к|цк|чес)/i):upward(.post)
+
+! 4 461 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|\W)sjw/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|\W)sjw/i):upward(.post)
+
+! 1 856 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/коммуняк)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/коммуняк)/i):upward(.post)
+
+! 1 818 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/красно(п(ё|е)р|пуз|жоп)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/красно(п(ё|е)р|пуз|жоп)/i):upward(.post)
+
+! 678 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/культурн(ый|ого|ому|ым|ом) маркси(зм|ст)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/культурн(ый|ого|ому|ым|ом) маркси(зм|ст)/i):upward(.post)

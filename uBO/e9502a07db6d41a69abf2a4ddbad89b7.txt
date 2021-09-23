@@ -1,0 +1,186 @@
+! Title: RuNet-Filters :: язычество :: дискредитация, профанация, синкретизм :: по источникам
+! Expires: 1 days
+
+! 26.09.2021 / ?
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/channel/UCC8cx8WRapge_9KyfcbTWwg"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/channel/UCC8cx8WRapge_9KyfcbTWwg"]):upward(ytd-video-renderer)
+
+! 30.09.2021 / 381 119
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-31828606_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-31828606_"]):upward(.post)
+
+! 26.09.2021 / 199 685
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-45270133_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-45270133_"]):upward(.post)
+
+! 26.09.2021 / 194 640
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-7875432_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-7875432_"]):upward(.post)
+
+! 27.09.2021 / 159 889
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-79050990_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-79050990_"]):upward(.post)
+
+! 27.09.2021 / 157 867
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-41340374_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-41340374_"]):upward(.post)
+
+! 30.09.2021 / 126 213
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-33752628_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-33752628_"]):upward(.post)
+
+! 27.09.2021 / 114 502
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-69222461_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-69222461_"]):upward(.post)
+
+! 26.09.2021 / 109 144
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-37077608_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-37077608_"]):upward(.post)
+
+! 27.09.2021 / 106 240
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-58597087_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-58597087_"]):upward(.post)
+
+! 27.09.2021 / 99 822
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-107309195_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-107309195_"]):upward(.post)
+
+! 26.09.2021 / 94 840
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-105429995_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-105429995_"]):upward(.post)
+
+! 27.09.2021 / 92 885
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-89723890_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-89723890_"]):upward(.post)
+
+! 26.09.2021 / 90 869
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-22926424_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-22926424_"]):upward(.post)
+
+! 27.09.2021 / 85 620
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-60899697_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-60899697_"]):upward(.post)
+
+! 05.10.2021 / 84 645
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-41880039_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-41880039_"]):upward(.post)
+
+! 27.09.2021 / 84 835
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-64046491_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-64046491_"]):upward(.post)
+
+! 27.09.2021 / 82 419
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-68886476_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-68886476_"]):upward(.post)
+
+! 27.09.2021 / 77 141
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-188431070_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-188431070_"]):upward(.post)
+
+! 27.09.2021 / 74 433
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-10016161_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-10016161_"]):upward(.post)
+
+! 27.09.2021 / 67 200
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-51682933_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-51682933_"]):upward(.post)
+
+! 27.09.2021 / 52 619
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-145742846_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-145742846_"]):upward(.post)
+
+! 27.09.2021 / 50 163
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-49700188_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-49700188_"]):upward(.post)
+
+! 26.09.2021 / 48 565
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-5372656_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-5372656_"]):upward(.post)
+
+! 30.09.2021 / 44 481
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-42094528_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-42094528_"]):upward(.post)
+
+! 26.09.2021 / 43 376
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-151075811_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-151075811_"]):upward(.post)
+
+! 26.09.2021 / 39 826
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-73000762_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-73000762_"]):upward(.post)
+
+! 27.09.2021 / 29 634
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-77650152_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-77650152_"]):upward(.post)
+
+! 26.09.2021 / 29 570
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-36543493_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-36543493_"]):upward(.post)
+
+! 01.10.2021 / 27 922
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-150982093_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-150982093_"]):upward(.post)
+
+! 27.09.2021 / 21 247
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-38004717_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-38004717_"]):upward(.post)
+
+! 26.09.2021 / 21 386
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-68496193_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-68496193_"]):upward(.post)
+
+! 26.09.2021 / 21 011
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-78121678_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-78121678_"]):upward(.post)
+
+! 27.09.2021 / 18,8 тыс.
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/RBUN12"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/RBUN12"]):upward(ytd-video-renderer)
+
+! 27.09.2021 / 18 633
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-28625146_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-28625146_"]):upward(.post)
+
+! 27.09.2021 / 13 816
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-37300354_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-37300354_"]):upward(.post)
+
+! 27.09.2021 / 12 231
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-56331540_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-56331540_"]):upward(.post)
+
+! 27.09.2021 / 10 459
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-59518327_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-59518327_"]):upward(.post)
+
+! 27.09.2021 / 9 901
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-47134374_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-47134374_"]):upward(.post)
+
+! 27.09.2021 / 9 888 / 485
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall552091259_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall552091259_"]):upward(.post)
+
+! 27.09.2021 / 9 029
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-38096455_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-38096455_"]):upward(.post)
+
+! 30.09.2021 / 8 166
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-71450359_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-71450359_"]):upward(.post)
+
+! 27.09.2021 / 4 858 / 1 022
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall174702670_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall174702670_"]):upward(.post)
+
+! 27.09.2021 / 4 590
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-188848486_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-188848486_"]):upward(.post)
+
+! 27.09.2021 / 3 945
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-137968350_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-137968350_"]):upward(.post)
+
+! 27.09.2021 / 3 634
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-184812603_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-184812603_"]):upward(.post)

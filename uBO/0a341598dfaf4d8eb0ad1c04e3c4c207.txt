@@ -1,0 +1,54 @@
+! Title: RuNet-Filters :: юмор :: плоский, школьный :: по источникам
+! Expires: 1 days
+
+! 04.10.2021 / 11 697 174
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-57846937_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-57846937_"]):upward(.post)
+
+! 04.10.2021 / 11 338 925
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-45441631_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-45441631_"]):upward(.post)
+
+! 04.10.2021 / 11 243 204
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-26419239_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-26419239_"]):upward(.post)
+
+! 04.10.2021 / 9 952 387
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-12382740_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-12382740_"]):upward(.post)
+
+! 04.10.2021 / 9 284 854
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-31836774_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-31836774_"]):upward(.post)
+
+! 04.10.2021 / 8 589 326
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-23064236_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-23064236_"]):upward(.post)
+
+! 04.10.2021 / 8 382 068
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-29246653_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-29246653_"]):upward(.post)
+
+! 04.10.2021 / 7 150 988
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-36164349_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-36164349_"]):upward(.post)
+
+! 04.10.2021 / 7 065 034
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-460389_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-460389_"]):upward(.post)
+
+! 04.10.2021 / 4 140 919
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-23148107_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-23148107_"]):upward(.post)
+
+! 04.10.2021 / 3 823 751
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-491_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-491_"]):upward(.post)
+
+! 04.10.2021 / 2 884 975
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-36775802_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-36775802_"]):upward(.post)
+
+! 04.10.2021 / 302 614
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-19232159_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-19232159_"]):upward(.post)

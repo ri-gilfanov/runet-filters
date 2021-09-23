@@ -1,0 +1,25 @@
+! Title: RuNet-Filters :: политика :: разное
+! Expires: 1 days
+
+! 24 079 407 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/коронавирус/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/коронавирус/i):upward(.post)
+
+! 1 163 773 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/вакцинаци(я|и|е|ю|ей)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/вакцинаци(я|и|е|ю|ей)/i):upward(.post)
+
+! 985 694 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/covid|ковид/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/covid|ковид/i):upward(.post)
+
+! 357 554 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/пандеми(я|и|е|ю|ей)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/пандеми(я|и|е|ю|ей)/i):upward(.post)
+
+! 116 640 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/эрдоган/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/эрдоган/i):upward(.post)

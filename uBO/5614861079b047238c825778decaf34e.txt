@@ -1,0 +1,11 @@
+! Title: RuNet-Filters :: государства :: США :: по выражениям
+! Expires: 1 days
+
+! 4 917 945 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])сша([^Ё-ё]|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])сша([^Ё-ё]|$)/i):upward(.post)
+
+! 380 576 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])байден(а|у|ом|е?)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])байден(а|у|ом|е?)/i):upward(.post)

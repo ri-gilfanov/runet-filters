@@ -1,0 +1,82 @@
+! Title: RuNet-Filters :: либеральная оппозиция РФ :: по источникам
+! Expires: 1 days
+
+! 04.10.2021 / 6,48 млн
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/NavalnyRu"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/NavalnyRu"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 2,64 млн
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/tvrainru"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/tvrainru"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 2,44 млн
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/channel/UCgxTPTFbIbCWfTR9I2-5SeQ"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/channel/UCgxTPTFbIbCWfTR9I2-5SeQ"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 1,21 млн
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/SvobodaRadio"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/SvobodaRadio"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 1,15 млн
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/NevzorovTV"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/NevzorovTV"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 986 тыс.
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/channel/UCo4GExFphiUnNiMMExvFWdg"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/channel/UCo4GExFphiUnNiMMExvFWdg"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 734 760
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-76982440_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-76982440_"]):upward(.post)
+
+! 04.10.2021 / 7 / 543 715
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall129244038_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall129244038_"]):upward(.post)
+
+! 04.10.2021 / 512 тыс.
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/channel/UCL1rJ0ROIw9V1qFeIN0ZTZQ"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/channel/UCL1rJ0ROIw9V1qFeIN0ZTZQ"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 516 491
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-17568841_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-17568841_"]):upward(.post)
+
+! 04.10.2021 / 7 / 441 050
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall473321945_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall473321945_"]):upward(.post)
+
+! 04.10.2021 / 278 606
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-24946565_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-24946565_"]):upward(.post)
+
+! 04.10.2021 / 155 820
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-60556804_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-60556804_"]):upward(.post)
+
+! 04.10.2021 / 67 210
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-147958317_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-147958317_"]):upward(.post)
+
+! 04.10.2021 / 31 996
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-85529314_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-85529314_"]):upward(.post)
+
+! 04.10.2021 / 29 943
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-12908334_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-12908334_"]):upward(.post)
+
+! 04.10.2021 / 23 792
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-146469497_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-146469497_"]):upward(.post)
+
+! 04.10.2021 / 21 754
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-63575_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-63575_"]):upward(.post)
+
+! 04.10.2021 / 14,3 тыс.
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/SakharovTalks"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/SakharovTalks"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 5 100
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-193551184_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-193551184_"]):upward(.post)

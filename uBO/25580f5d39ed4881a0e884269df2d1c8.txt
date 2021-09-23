@@ -1,0 +1,30 @@
+! Title: RuNet-Filters :: игры :: по выражениям
+! Expires: 1 days
+
+! 2 325 890 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/minecraft/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/minecraft/i):upward(.post)
+
+! 1 693 367 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|\W)xbox(\W|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|\W)xbox(\W|$)/i):upward(.post)
+
+! 732 119 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/playstation/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/playstation/i):upward(.post)
+
+! 512 230 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|\W)dota(\W|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|\W)dota(\W|$)/i):upward(.post)
+
+! 32 803 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/activision/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/activision/i):upward(.post)
+
+! 8 902 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/electronic arts/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/electronic arts/i):upward(.post)
+
+! 810 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/infinity ward/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/infinity ward/i):upward(.post)

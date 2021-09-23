@@ -7,19 +7,19 @@ vk.com##.audio_row,.video_item:has-text(/кринж/i)
 youtube.com###dismissible:has-text(/кринж/i)
 
 ! Рашка
-vk.com##.post_author,.wall_text:has-text(/(^|\s)рашк(а|и|е|у|ой)/i):upward(.post)
-vk.com##.audio_row,.video_item:has-text(/(^|\s)рашк(а|и|е|у|ой)/i)
-youtube.com###dismissible:has-text(/(^|\s)рашк(а|и|е|у|ой)/i)
+vk.com##.post_author,.wall_text:has-text(/(^|^[Ё-ё])рашк(а|и|е|у|ой)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(^|^[Ё-ё])рашк(а|и|е|у|ой)/i)
+youtube.com###dismissible:has-text(/(^|^[Ё-ё])рашк(а|и|е|у|ой)/i)
 
 ! Рофл
-vk.com##.post_author,.wall_text:has-text(/(^|\s)рофл/i):upward(.post)
-vk.com##.audio_row,.video_item:has-text(/(^|\s)рофл/i)
-youtube.com###dismissible:has-text(/(^|\s)рофл/i)
+vk.com##.post_author,.wall_text:has-text(/(^|^[Ё-ё])рофл/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(^|^[Ё-ё])рофл/i)
+youtube.com###dismissible:has-text(/(^|^[Ё-ё])рофл/i)
 
 ! Фейк
-vk.com##.post_author,.wall_text:has-text(/(^|\s)ф(е|э)йк/i):upward(.post)
-vk.com##.audio_row,.video_item:has-text(/(^|\s)ф(е|э)йк/i)
-youtube.com###dismissible:has-text(/(^|\s)ф(е|э)йк/i)
+vk.com##.post_author,.wall_text:has-text(/(^|^[Ё-ё])ф(е|э)йк/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(^|^[Ё-ё])ф(е|э)йк/i)
+youtube.com###dismissible:has-text(/(^|^[Ё-ё])ф(е|э)йк/i)
 
 ! Флексить
 vk.com##.post_author,.wall_text:has-text(/флекс(шу|ит|им|ят|ил)/i):upward(.post)

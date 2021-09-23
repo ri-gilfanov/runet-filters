@@ -1,0 +1,10 @@
+! Title: RuNet-Filters :: государства :: Украина :: по выражениям
+! Expires: 1 days
+
+! 548 758 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/владимир(а|у|ом|е?) зеленск/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/владимир(а|у|ом|е?) зеленск/i):upward(.post)
+
+! 409 646 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/анатоли(й|я|ю|ем|и) шари(й|я|ю|ем|и)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/анатоли(й|я|ю|ем|и) шари(й|я|ю|ем|и)/i):upward(.post)

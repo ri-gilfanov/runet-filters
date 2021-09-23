@@ -1,0 +1,39 @@
+! Title: RuNet-Filters :: юмор :: плоский, школьный :: по выражениям
+! Expires: 1 days
+
+! 1 300 264 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/уральски(е|х|м|ми) пельмен(и|ей|ям|ях)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/уральски(е|х|м|ми) пельмен(и|ей|ям|ях)/i):upward(.post)
+
+! 689 906 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/гарик(а|у|ом|е?) харламов/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/гарик(а|у|ом|е?) харламов/i):upward(.post)
+
+! 236 364 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/пав(ел|ла|лу|лом|ле) вол(я|и|е|ю|ей)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/пав(ел|ла|лу|лом|ле) вол(я|и|е|ю|ей)/i):upward(.post)
+
+! 218 131 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/михаил(а|у|ом|е?) галустян/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/михаил(а|у|ом|е?) галустян/i):upward(.post)
+
+! 194 841 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/сем(ё|е)н(а|у|ом|е?) слепаков/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/сем(ё|е)н(а|у|ом|е?) слепаков/i):upward(.post)
+
+! 125 452 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/гарик(а|у|ом|е?) мартиросян/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/гарик(а|у|ом|е?) мартиросян/i):upward(.post)
+
+! 118 319 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/александр(а|у|ом|е?) ревв(а|ы|е|у|ой)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/александр(а|у|ом|е?) ревв(а|ы|е|у|ой)/i):upward(.post)
+
+! 79 838 (wordstat.yandex.ru от 23.09.2021)
+! сработал 2
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/comedy club|камеди клаб/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/comedy club|камеди клаб/i):upward(.post)
+
+! 74 866 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/серге(й|я|ю|ем|е) светлаков/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/серге(й|я|ю|ем|е) светлаков/i):upward(.post)

@@ -1,0 +1,24 @@
+! Title: RuNet-Filters :: Фильтры с широким охватом
+! Expires: 1 days
+
+vk.com##:matches-path(/feed)#main_feed .wall_text:not(:has(.wall_post_text)):upward(.post )
+vk.com##:matches-path(/search)#results .wall_text:not(:has(.wall_post_text)):upward(.post )
+
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/эт(а|ой|у) стран(а|ы|е|у|ой)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/эт(а|ой|у) стран(а|ы|е|у|ой)/i):upward(.post)
+
+! 13 730 953 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])российск/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])российск/i):upward(.post)
+
+! 1 484 685 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])россиян/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])россиян/i):upward(.post)
+
+! 1 409 398 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/р(о|а)зыгр/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/р(о|а)зыгр/i):upward(.post)
+
+! 118 353 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/российск/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/российск/i):upward(.post)

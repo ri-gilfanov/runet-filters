@@ -1,0 +1,18 @@
+! Title: RuNet-Filters :: РФ :: государственные служащие и лоялисты :: по источникам
+! Expires: 1 days
+
+! 04.10.2021 / 452 245
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-28658784_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-28658784_"]):upward(.post)
+
+! 26.09.2021 / 34 636
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-106074480_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-106074480_"]):upward(.post)
+
+! 26.09.2021 / 25 823
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-189163317_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-189163317_"]):upward(.post)
+
+! 26.09.2021 / 10 809
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-164239893_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-164239893_"]):upward(.post)

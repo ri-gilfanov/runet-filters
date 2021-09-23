@@ -1,0 +1,83 @@
+! Title: музыка :: поп, рэп, хип-хоп и пр. :: по выражениям
+! Expires: 1 days
+
+! 3 638 772 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/моргенштерн|morgenshtern/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/моргенштерн|morgenshtern/i):upward(.post)
+
+! 1 773 386 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/егор(а|у|ом|е?) крид/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/егор(а|у|ом|е?) крид/i):upward(.post)
+
+! 1 628 563 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/стас(а|у|ом|е) михайлов/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/стас(а|у|ом|е) михайлов/i):upward(.post)
+
+! 1 086 874 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/скриптонит/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/скриптонит/i):upward(.post)
+
+! 975 350 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/ольг(а|у|е|ой) бузов(а|у|е|ой)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/ольг(а|у|е|ой) бузов(а|у|е|ой)/i):upward(.post)
+
+! 828 398 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/клав(а|у|ой|е) кок(а|у|ой|е)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/клав(а|у|ой|е) кок(а|у|ой|е)/i):upward(.post)
+
+! 791 229 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/филипп(а|у|ом|е?) киркоров/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/филипп(а|у|ом|е?) киркоров/i):upward(.post)
+
+! 732 968 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/макс(а|у|ом|е?) корж(а|у|ом|е?)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/макс(а|у|ом|е?) корж(а|у|ом|е?):upward(.post)
+
+! 606 895 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/дан(я|и|ю|ей|е) милохин/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/дан(я|и|ю|ей|е) милохин/i):upward(.post)
+
+! 589 970 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/алл(а|ы|е|у|ой) пугач(ё|е)в/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/алл(а|ы|е|у|ой) пугач(ё|е)в/i):upward(.post)
+
+! 497 622 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])дор(а|ы|е|у|ой)([^Ё-ё]|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])дор(а|ы|е|у|ой)([^Ё-ё]|$)/i):upward(.post)
+
+! 348 202 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/пошл(ая|ой|ую) молли/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/пошл(ая|ой|ую) молли/i):upward(.post)
+
+! 242 195 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/hammali & navai/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/hammali & navai/i):upward(.post)
+
+! 118 495 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/niletto/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/niletto/i):upward(.post)
+
+! 98 438 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/slava marlow/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/slava marlow/i):upward(.post)
+
+! 85 426 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/kizaru/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/kizaru/i):upward(.post)
+
+! 68 572 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/oxxxymiron/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/oxxxymiron/i):upward(.post)
+
+! 32 676 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/dj smash/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/dj smash/i):upward(.post)
+
+! 29 836 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/ic3peak/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/ic3peak/i):upward(.post)
+
+! 22 016 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/cream soda/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/cream soda/i):upward(.post)

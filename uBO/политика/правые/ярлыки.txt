@@ -1,37 +1,30 @@
-! Title: Политические ярлыки «правых»
+! Title: Политика / Правые / Ярлыки
 ! Expires: 1 days
 
-! SJW
-vk.com##.post_author,.wall_text:has-text(/(^|\W)sjw/i):upward(.post)
+vk.com##.post_author,.wall_text:has-text(/(^|^[Ё-ё])sjw/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/(^|^[Ё-ё])sjw/i)
 youtube.com###dismissible:has-text(/(^|^[Ё-ё])sjw/i)
 
-! Краснопёрый/Краснопузый/Красно...
 vk.com##.post_author,.wall_text:has-text(/красно(п(ё|е)р|пуз|жоп)/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/красно(п(ё|е)р|пуз|жоп)/i)
 youtube.com###dismissible:has-text(/красно(п(ё|е)р|пуз|жоп)/i)
 
-! Коммуняка
 vk.com##.post_author,.wall_text:has-text(/коммуняк)/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/коммуняк/i)
 youtube.com###dismissible:has-text(/коммуняк/i)
 
-! Красный террор
 vk.com##.post_author,.wall_text:has-text(/красн(ый|ого|ому|ым|ом) террор/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/красн(ый|ого|ому|ым|ом) террор/i)
 youtube.com###dismissible:has-text(/красн(ый|ого|ому|ым|ом) террор/i)
 
-! Культурмарксизм/культурмарксист
 vk.com##.post_author,.wall_text:has-text(/культурмаркси(зм|ст))/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/культурмаркси(зм|ст)/i)
 youtube.com###dismissible:has-text(/культурмаркси(зм|ст)/i)
 
-! Культурный марксизм
 vk.com##.post_author,.wall_text:has-text(/культурн(ый|ого|ому|ым|ом) маркси(зм|ст)/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/культурн(ый|ого|ому|ым|ом) маркси(зм|ст)/i)
 youtube.com###dismissible:has-text(/культурн(ый|ого|ому|ым|ом) маркси(зм|ст)/i)
 
-! Левачество/Левак
 vk.com##.post_author,.wall_text:has-text(/(^|^[Ё-ё])лева(к|цк|чес)/i):upward(.post)
 vk.com##.audio_row,.video_item:has-text(/(^|^[Ё-ё])лева(к|цк|чес)/i)
 youtube.com###dismissible:has-text(/(^|^[Ё-ё])лева(к|цк|чес)/i)

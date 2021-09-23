@@ -1,0 +1,59 @@
+! Title: RuNet-Filters :: русская речь :: избыточные англицизмы, уголовный жаргон и пр.
+! Expires: 1 days
+
+! 552 553 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|^[Ё-ё])бьюти/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|^[Ё-ё])бьюти/i):upward(.post)
+
+! 395 284 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|^[Ё-ё])ф(е|э)йк/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|^[Ё-ё])ф(е|э)йк/i):upward(.post)
+
+! 198 260 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|^[Ё-ё])коворк/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|^[Ё-ё])коворк/i):upward(.post)
+
+! 118 353 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/гендер/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/гендер/i):upward(.post)
+
+! 117 945  (wordstat.yandex.ru от 04.10.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/буллинг/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/буллинг/i):upward(.post)
+
+! 96 971 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/кринж/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/кринж/i):upward(.post)
+
+! 78 036 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|^[Ё-ё])ф(е|э)йл/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|^[Ё-ё])ф(е|э)йл/i):upward(.post)
+
+! 71 649 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|^[Ё-ё])рофл/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|^[Ё-ё])рофл/i):upward(.post)
+
+! 68 972 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/фра(й?)ер/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/фра(й?)ер/i):upward(.post)
+
+! 57 374 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|^[Ё-ё])абьюз/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|^[Ё-ё])абьюз/i):upward(.post)
+
+! 23 010 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/флекс(шу|ит|им|ят|ил)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/флекс(шу|ит|им|ят|ил)/i):upward(.post)
+
+! 21 064 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/фор(шу|сит|сим|сят|ил)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/фор(шу|сит|сим|сят|ил)/i):upward(.post)
+
+! 19 244 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|^[Ё-ё])рашк(а|и|е|у|ой)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|^[Ё-ё])рашк(а|и|е|у|ой)/i):upward(.post)
+
+! 11 552 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/зашквар/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/зашквар/i):upward(.post)

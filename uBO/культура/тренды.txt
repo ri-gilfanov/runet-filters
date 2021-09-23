@@ -1,0 +1,192 @@
+! Title: Культура / Тренды
+! Expires: 1 days
+
+! 3 638 772 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/моргенштерн|morgenshtern/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/моргенштерн|morgenshtern/i)
+youtube.com###dismissible:has-text(/моргенштерн|morgenshtern/i)
+
+! 3 316 625 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/(^|[^Ё-ё])нтв/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(^|[^Ё-ё])нтв/i)
+youtube.com###dismissible:has-text(/(^|[^Ё-ё])нтв/i)
+
+! 1 773 386 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/егор(а|у|ом|е?) крид/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/егор(а|у|ом|е?) крид/i)
+youtube.com###dismissible:has-text(/егор(а|у|ом|е?) крид/i)
+
+! 1 628 563 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/стас(а|у|ом|е) михайлов/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/стас(а|у|ом|е) михайлов/i)
+youtube.com###dismissible:has-text(/стас(а|у|ом|е) михайлов/i)
+
+! 1 321 892 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/(^|[^Ё-ё])рен тв/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(^|[^Ё-ё])рен тв/i)
+youtube.com###dismissible:has-text(/(^|[^Ё-ё])рен тв/i)
+
+! 1 300 264 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/уральски(е|х|м|ми) пельмен(и|ей|ям|ях)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/уральски(е|х|м|ми) пельмен(и|ей|ям|ях)/i)
+youtube.com###dismissible:has-text(/уральски(е|х|м|ми) пельмен(и|ей|ям|ях)/i)
+
+! 1 086 874 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/скриптонит/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/скриптонит/i)
+youtube.com###dismissible:has-text(/скриптонит/i)
+
+! 975 350 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/ольг(а|у|е|ой) бузов(а|у|е|ой)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/ольг(а|у|е|ой) бузов(а|у|е|ой)/i)
+youtube.com###dismissible:has-text(/ольг(а|у|е|ой) бузов(а|у|е|ой)/i)
+
+! 908 868 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/ксени(я|и|е|ию|ей) собчак/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/ксени(я|и|е|ию|ей) собчак/i)
+youtube.com###dismissible:has-text(/ксени(я|и|е|ию|ей) собчак/i)
+
+! 828 398 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/клав(а|у|ой|е) кок(а|у|ой|е)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/клав(а|у|ой|е) кок(а|у|ой|е)/i)
+youtube.com###dismissible:has-text(/клав(а|у|ой|е) кок(а|у|ой|е)/i)
+
+! 791 229 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/филипп(а|у|ом|е?) киркоров/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/филипп(а|у|ом|е?) киркоров/i)
+youtube.com###dismissible:has-text(/филипп(а|у|ом|е?) киркоров/i)
+
+! 732 968 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/макс(а|у|ом|е?) корж(а|у|ом|е?)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/макс(а|у|ом|е?) корж(а|у|ом|е?)/i)
+youtube.com###dismissible:has-text(/макс(а|у|ом|е?) корж(а|у|ом|е?)/i)
+
+! 689 906 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/гарик(а|у|ом|е?) харламов/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/гарик(а|у|ом|е?) харламов/i)
+youtube.com###dismissible:has-text(/гарик(а|у|ом|е?) харламов/i)
+
+! 606 895 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/дан(я|и|ю|ей|е) милохин/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/дан(я|и|ю|ей|е) милохин/i)
+youtube.com###dismissible:has-text(/дан(я|и|ю|ей|е) милохин/i)
+
+! 589 970 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/алл(а|ы|е|у|ой) пугач(ё|е)в/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/алл(а|ы|е|у|ой) пугач(ё|е)в/i)
+youtube.com###dismissible:has-text(/алл(а|ы|е|у|ой) пугач(ё|е)в/i)
+
+! 532 215 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/netflix/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/netflix/i)
+youtube.com###dismissible:has-text(/netflix/i)
+
+! 497 622 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/(^|[^Ё-ё])дор(а|ы|е|у|ой)([\s»",\.]|$)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(^|[^Ё-ё])дор(а|ы|е|у|ой)([\s»",\.]|$)/i)
+youtube.com###dismissible:has-text(/(^|[^Ё-ё])дор(а|ы|е|у|ой)([\s»",\.]|$)/i)
+
+! 476 756 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/marvel/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/marvel/i)
+youtube.com###dismissible:has-text(/marvel/i)
+
+! 348 202 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/пошл(ая|ой|ую) молли/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/пошл(ая|ой|ую) молли/i)
+youtube.com###dismissible:has-text(/пошл(ая|ой|ую) молли/i)
+
+! 251 001 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)|вдудь/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)|вдудь/i)
+youtube.com###dismissible:has-text(/юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)|вдудь/i)
+
+! 242 195 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/hammali & navai/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/hammali & navai/i)
+youtube.com###dismissible:has-text(/hammali & navai/i)
+
+! 236 364 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/пав(ел|ла|лу|лом|ле) вол(я|и|е|ю|ей)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/пав(ел|ла|лу|лом|ле) вол(я|и|е|ю|ей)/i)
+youtube.com###dismissible:has-text(/пав(ел|ла|лу|лом|ле) вол(я|и|е|ю|ей)/i)
+
+! 218 131 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/михаил(а|у|ом|е?) галустян/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/михаил(а|у|ом|е?) галустян/i)
+youtube.com###dismissible:has-text(/михаил(а|у|ом|е?) галустян/i)
+
+! 194 841 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/сем(ё|е)н(а|у|ом|е?) слепаков/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/сем(ё|е)н(а|у|ом|е?) слепаков/i)
+youtube.com###dismissible:has-text(/сем(ё|е)н(а|у|ом|е?) слепаков/i)
+
+! 166 973 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/захар(а|у|ом|е?) прилепин/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/захар(а|у|ом|е?) прилепин/i)
+youtube.com###dismissible:has-text(/захар(а|у|ом|е?) прилепин/i)
+
+! 125 452 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/гарик(а|у|ом|е?) мартиросян/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/гарик(а|у|ом|е?) мартиросян/i)
+youtube.com###dismissible:has-text(/гарик(а|у|ом|е?) мартиросян/i)
+
+! 118 495 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/niletto/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/niletto/i)
+youtube.com###dismissible:has-text(/niletto/i)
+
+! 118 319 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/александр(а|у|ом|е?) ревв(а|ы|е|у|ой)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/александр(а|у|ом|е?) ревв(а|ы|е|у|ой)/i)
+youtube.com###dismissible:has-text(/александр(а|у|ом|е?) ревв(а|ы|е|у|ой)/i)
+
+! 98 438 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/slava marlow/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/slava marlow/i)
+youtube.com###dismissible:has-text(/slava marlow/i)
+
+! 85 426 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/kizaru/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/kizaru/i)
+youtube.com###dismissible:has-text(/kizaru/i)
+
+! 79 838 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/comedy club|камеди клаб/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/comedy club|камеди клаб/i)
+youtube.com###dismissible:has-text(/comedy club/i)
+
+! 74 866 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/серге(й|я|ю|ем|е) светлаков/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/серге(й|я|ю|ем|е) светлаков/i)
+youtube.com###dismissible:has-text(/серге(й|я|ю|ем|е) светлаков/i)
+
+! 71 828 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/анфис(а|ы|е|у|ой) чехов(а|ы|е|у|ой)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/анфис(а|ы|е|у|ой) чехов(а|ы|е|у|ой)/i)
+youtube.com###dismissible:has-text(/анфис(а|ы|е|у|ой) чехов(а|ы|е|у|ой)/i)
+
+! 68 572 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/oxxxymiron/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/oxxxymiron/i)
+youtube.com###dismissible:has-text(/oxxxymiron/i)
+
+! 32 676 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/dj smash/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/dj smash/i)
+youtube.com###dismissible:has-text(/dj smash/i)
+
+! 29 836 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/ic3peak/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/ic3peak/i)
+youtube.com###dismissible:has-text(/ic3peak/i)
+
+! 22 016 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/cream soda/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/cream soda/i)
+youtube.com###dismissible:has-text(/cream soda/i)
+
+! 21 199 (wordstat.yandex.ru от 23.09.2021)
+vk.com##.post_author,.wall_text:has-text(/wylsacom/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/wylsacom/i)
+youtube.com###dismissible:has-text(/wylsacom/i)

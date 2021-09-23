@@ -1,0 +1,26 @@
+! Title: RuNet-Filters :: язычество :: дискредитация, профанация, синкретизм :: по выражениям
+! Expires: 1 days
+
+! 149 800 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/трезвост/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/трезвост/i):upward(.post)
+
+! 54 043 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/вегетариан/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/вегетариан/i):upward(.post)
+
+! 10 555 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/славяно(-|\s)ари(и|й)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/славяно(-|\s)ари(и|й)/i):upward(.post)
+
+! 8 971 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/С.М.З.Х.|сзмх/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/С.М.З.Х.|сзмх/i):upward(.post)
+
+! 6 370 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/трехлебов/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/трехлебов/i):upward(.post)
+
+! 2 041 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/валери(й|я|ю|ем|и) чудинов/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/валери(й|я|ю|ем|и) чудинов/i):upward(.post)

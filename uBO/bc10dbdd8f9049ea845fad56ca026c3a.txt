@@ -1,0 +1,88 @@
+! Title: RuNet-Filters :: РФ :: государственные служащие и лоялисты :: по выражениям
+! Expires: 1 days
+
+! 5 076 971 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])путин(а|у|ым|е)?([^Ё-ё]|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])путин(а|у|ым|е)?([^Ё-ё]|$)/i):upward(.post)
+
+! 3 705 715 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/владимир(а|у|ом|е?) соловь(ё|е)в(а|у|ым|е?)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/владимир(а|у|ом|е?) соловь(ё|е)в(а|у|ым|е?)/i):upward(.post)
+
+! 3 316 625 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])нтв([^Ё-ё]|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])нтв([^Ё-ё]|$)/i):upward(.post)
+
+! 2 375 253 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/дмитри(й|я|ю|ем|е) песков/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/дмитри(й|я|ю|ем|е) песков/i):upward(.post)
+
+! 2 006 036 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/серге(й|я|ю|ем|е) михеев/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/серге(й|я|ю|ем|е) михеев/i):upward(.post)
+
+! 1 565 217 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/един(ая|ой|ую) росси(я|и|ю|е)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/един(ая|ой|ую) росси(я|и|ю|е)/i):upward(.post)
+
+! 1 129 716 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/серге(й|я|ю|ем|е) лавров/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/серге(й|я|ю|ем|е) лавров/i):upward(.post)
+
+! 991 184 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/мари(я|и|е|ю|ей) захаров/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/мари(я|и|е|ю|ей) захаров/i):upward(.post)
+
+! 813 290 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/серге(й|я|ю|ем|е) шойгу/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/серге(й|я|ю|ем|е) шойгу/i):upward(.post)
+
+! 575 173 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/владимир(а|у|ом|е?) жириновск/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/владимир(а|у|ом|е?) жириновск/i):upward(.post)
+
+! 531 779 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/справедлив(ая|ой|ую) росси(я|и|ю|е)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/справедлив(ая|ой|ую) росси(я|и|ю|е)/i):upward(.post)
+
+! 528 045 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/лдпр/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/лдпр/i):upward(.post)
+
+! 319 943 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/михаил(а|у|ом|е?) мишустин/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/михаил(а|у|ом|е?) мишустин/i):upward(.post)
+
+! 291 143 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/серге(й|я|ю|ем|е) собянин/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/серге(й|я|ю|ем|е) собянин/i):upward(.post)
+
+! 254 162 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/константин(а|у|ом|е) с(ё|е)мин/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/константин(а|у|ом|е) с(ё|е)мин/i):upward(.post)
+
+! 166 973 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/захар(а|у|ом|е?) прилепин/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/захар(а|у|ом|е?) прилепин/i):upward(.post)
+
+! 79 971 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/маргарит(а|ы|е|у|ой) симоньян/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/маргарит(а|ы|е|у|ой) симоньян/i):upward(.post)
+
+! 41 916 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/мид рф/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/мид рф/i):upward(.post)
+
+! 32 564 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/серге(й|я|ю|ем|е) кургинян/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/серге(й|я|ю|ем|е) кургинян/i):upward(.post)
+
+! 31 375 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/тигран(а|у|ом|е?) кеосаян/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/тигран(а|у|ом|е?) кеосаян/i):upward(.post)

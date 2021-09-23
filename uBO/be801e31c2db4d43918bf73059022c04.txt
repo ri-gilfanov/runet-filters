@@ -1,0 +1,38 @@
+! Title: RuNet-Filters :: Политические ярлыки левых
+! Expires: 1 days
+
+! 135 933 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(фаши|наци|раси)(зм|ст)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(фаши|наци|раси)(зм|ст)/i):upward(.post)
+
+! 109 031 (wordstat.yandex.ru от 05.10.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/геноцид/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/геноцид/i):upward(.post)
+
+! 36 950 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/ксенофоб/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/ксенофоб/i):upward(.post)
+
+! 36 609 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/мизогин/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/мизогин/i):upward(.post)
+
+! 32 453 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/гомофоб/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/гомофоб/i):upward(.post)
+
+! 15 482 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/антисемит/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/антисемит/i):upward(.post)
+
+! 7 253 (wordstat.yandex.ru от 04.10.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/ультраправ/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/ультраправ/i):upward(.post)
+
+! 697 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|^[Ё-ё])права(к|цк|чес)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|^[Ё-ё])права(к|цк|чес)/i):upward(.post)

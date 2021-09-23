@@ -1,0 +1,50 @@
+! Title: RuNet-Filters :: Наука :: идеологизация :: по выражениям
+! Expires: 1 days
+
+! 149 800 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/трезвост/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/трезвост/i):upward(.post)
+
+! 118 353 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/гендер/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/гендер/i):upward(.post)
+
+! 54 043 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/вегетариан/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/вегетариан/i):upward(.post)
+
+! 50 022 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/глобальн(ое|ого|ому|ым|ом) потеплени/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/глобальн(ое|ого|ому|ым|ом) потеплени/i):upward(.post)
+
+! 27 896 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/ольг(а|и|е|у|ой) четвериков/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/ольг(а|и|е|у|ой) четвериков/i):upward(.post)
+
+! 13 110 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/п(ё|е)тр(а|у|ом|е?) гаряев/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/п(ё|е)тр(а|у|ом|е?) гаряев/i):upward(.post)
+
+! 12 167 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/роберт(а|у|ом|е?) сапольски/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/роберт(а|у|ом|е?) сапольски/i):upward(.post)
+
+! 9 201 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/постнаук(а|и|е|у|ой)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/постнаук(а|и|е|у|ой)/i):upward(.post)
+
+! 7 020 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/владимир(а|у|ом|е?) жданов/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/владимир(а|у|ом|е?) жданов/i):upward(.post)
+
+! 3 450 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/александр(а|у|ом|е?) панчин/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/александр(а|у|ом|е?) панчин/i):upward(.post)
+
+! 2 193 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/михаил(а|у|ом|е?) гельфанд/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/михаил(а|у|ом|е?) гельфанд/i):upward(.post)
+
+! 2 041 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/валери(й|я|ю|ем|и) чудинов/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/валери(й|я|ю|ем|и) чудинов/i):upward(.post)

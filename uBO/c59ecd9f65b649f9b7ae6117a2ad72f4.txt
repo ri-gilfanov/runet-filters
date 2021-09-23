@@ -1,0 +1,30 @@
+! Title: RuNet-Filters :: Наука :: идеологизация :: по источникам
+! Expires: 1 days
+
+! 04.10.2021 / 1,02 млн
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/postnauka"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/postnauka"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 489 150
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-36507793_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-36507793_"]):upward(.post)
+
+! 04.10.2021 / 427 237
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-32943546_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-32943546_"]):upward(.post)
+
+! 04.10.2021 / 366 тыс.
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/vsekakuzverei"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/vsekakuzverei"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 97,1 тыс.
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/channel/UC2q4mHrzoR48mwSuAYtVPtQ"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/channel/UC2q4mHrzoR48mwSuAYtVPtQ"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 5 769 / 48 697
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall187756_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall187756_"]):upward(.post)
+
+! 04.10.2021 / 821 / 799
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall89473466_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall89473466_"]):upward(.post)

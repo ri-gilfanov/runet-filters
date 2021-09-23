@@ -2,7 +2,7 @@
 ! Expires: 1 days
 
 ! Байден, Джо
-vk.com##.post_author,.wall_text:has-text(/(^|\s)байден(а|у|ом|е?)/i):upward(.post)
-vk.com##.audio_row,.video_item:has-text(/(^|\s)байден(а|у|ом|е?)/i)
-youtube.com###dismissible:has-text(/(^|\s)байден(а|у|ом|е?)/i)
+vk.com##.post_author,.wall_text:has-text(/(^|^[Ё-ё])байден(а|у|ом|е?)/i):upward(.post)
+vk.com##.audio_row,.video_item:has-text(/(^|^[Ё-ё])байден(а|у|ом|е?)/i)
+youtube.com###dismissible:has-text(/(^|^[Ё-ё])байден(а|у|ом|е?)/i)
 

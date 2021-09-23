@@ -1,0 +1,47 @@
+! Title: RuNet-Filters :: кино и телевидение :: популярное :: по выражениям
+! Expires: 1 days
+
+! 5 485 721 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])тнт([^Ё-ё]|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])тнт([^Ё-ё]|$)/i):upward(.post)
+
+! 3 577 156 (wordstat.yandex.ru от 05.10.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])нтв([^Ё-ё]|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])нтв([^Ё-ё]|$)/i):upward(.post)
+
+! 2 656 759 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])стс([^Ё-ё]|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])стс([^Ё-ё]|$)/i):upward(.post)
+
+! 1 321 892 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|[^Ё-ё])рен тв([^Ё-ё]|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|[^Ё-ё])рен тв([^Ё-ё]|$)/i):upward(.post)
+
+! 583 584 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/ургант/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/ургант/i):upward(.post)
+
+! 532 215 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/netflix/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/netflix/i):upward(.post)
+
+! 476 756 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/marvel/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/marvel/i):upward(.post)
+
+! 238 073 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|\W)disney(\W|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|\W)disney(\W|$)/i):upward(.post)
+
+! 92 374 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/ф(ё|е)дор(а|у|ом|е?) бондарчук/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/ф(ё|е)дор(а|у|ом|е?) бондарчук/i):upward(.post)
+
+! 76 387 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/вачовски/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/вачовски/i):upward(.post)
+
+! 27 413 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/стивен(а|у|ом|е?) спилберг/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/стивен(а|у|ом|е?) спилберг/i):upward(.post)

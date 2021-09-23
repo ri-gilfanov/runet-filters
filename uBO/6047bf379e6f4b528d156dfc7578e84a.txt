@@ -1,0 +1,38 @@
+! Title: RuNet-Filters :: игры :: по источникам
+! Expires: 1 days
+
+! 04.10.2021 / 4 129 038
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-78616012_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-78616012_"]):upward(.post)
+
+! 04.10.2021 / 4 058 752
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-30602036_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-30602036_"]):upward(.post)
+
+! 04.10.2021 / 2,13 млн
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/onlinegamercentral"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/onlinegamercentral"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 2,13 млн
+youtube.com##ytd-rich-item-renderer > #content > ytd-rich-grid-media > #dismissible > #details:has(a[href="/user/IgromaniaVideo"]):upward(ytd-rich-item-renderer)
+youtube.com##ytd-video-renderer > #dismissible > .text-wrapper > #channel-info:has(a[href="/user/IgromaniaVideo"]):upward(ytd-video-renderer)
+
+! 04.10.2021 / 975 548
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-152683782_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-152683782_"]):upward(.post)
+
+! 04.10.2021 / 896 095
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-26006257_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-26006257_"]):upward(.post)
+
+! 04.10.2021 / 622 232
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-387766_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-387766_"]):upward(.post)
+
+! 04.10.2021 / 555 184
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-43116499_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-43116499_"]):upward(.post)
+
+! 04.10.2021 / 190 194
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-50305947_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-50305947_"]):upward(.post)

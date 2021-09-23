@@ -1,0 +1,10 @@
+! Title: музыка :: поп, рэп, хип-хоп и пр. :: по источникам
+! Expires: 1 days
+
+! 04.10.2021 / 15 745 126
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-27895931_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-27895931_"]):upward(.post)
+
+! 04.10.2021 / 2 637 358
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-123675921_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-123675921_"]):upward(.post)

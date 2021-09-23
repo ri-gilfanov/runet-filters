@@ -1,0 +1,77 @@
+! Title: RuNet-Filters :: либеральная оппозиция РФ :: по выражениям
+! Expires: 1 days
+
+! 1 710 287 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/эхо(а|у|ом|е) москвы/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/эхо(а|у|ом|е) москвы/i):upward(.post)
+
+! 1 660 465 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/леонид(а|у|ом|е?) волков/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/леонид(а|у|ом|е?) волков/i):upward(.post)
+
+! 908 868 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/ксени(я|и|е|ию|ей) собчак/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/ксени(я|и|е|ию|ей) собчак/i):upward(.post)
+
+! 730 815 (wordstat.yandex.ru от 23.09.2021)
+! сработал 2
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/навальн|navalny/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/навальн|navalny/i):upward(.post)
+
+! 603 859 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/люб(о?)[в](ь(ю?)|и) соболь/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/люб(о?)[в](ь(ю?)|и) соболь/i):upward(.post)
+
+! 493 570 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/лгбт|lgbt/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/лгбт|lgbt/i):upward(.post)
+
+! 251 001 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)|вдудь/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/юри(й|я|ю|ем|и) дуд(ь|я|ю|ом|е)|вдудь/i):upward(.post)
+
+! 248 219 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/иль(я|и|е|ю|ёй) варламов/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/иль(я|и|е|ю|ёй) варламов/i):upward(.post)
+
+! 171 483 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/радио свобода/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/радио свобода/i):upward(.post)
+
+! 158 164 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/солженицын/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/солженицын/i):upward(.post)
+
+! 147 672 (wordstat.yandex.ru от 23.09.2021)
+! сработал 1
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/феминизм/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/феминизм/i):upward(.post)
+
+! 143 199 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/максим(а|у|ом|е?) кац(а|у|ом|е?)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/максим(а|у|ом|е?) кац(а|у|ом|е?)/i):upward(.post)
+
+! 90 427  (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/михаил(а|у|ом|е?) ходорковск/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/михаил(а|у|ом|е?) ходорковск/i):upward(.post)
+
+! 86 089 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/телеканал(а|у|ом|е?) дождь/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/телеканал(а|у|ом|е?) дождь/i):upward(.post)
+
+! 76 387 (wordstat.yandex.ru от 05.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/вачовски/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/вачовски/i):upward(.post)
+
+! 72 464 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/екатерин(а|ы|е|у|ой) шульман/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/екатерин(а|ы|е|у|ой) шульман/i):upward(.post)
+
+! 65 183 (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/григори(й|я|ю|ем|е) явлинск/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/григори(й|я|ю|ем|е) явлинск/i):upward(.post)
+
+! 9 422  (wordstat.yandex.ru от 23.09.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/леонид(а|у|ом|е?) гозман/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/леонид(а|у|ом|е?) гозман/i):upward(.post)

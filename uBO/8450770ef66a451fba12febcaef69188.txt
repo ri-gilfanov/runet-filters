@@ -1,0 +1,38 @@
+! Title: RuNet-Filters :: информационные технологии :: коммерческие продукты :: по выражениям
+! Expires: 1 days
+
+! 19 758 772 (wordstat.yandex.ru от 06.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/инстаграм|instagram/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/инстаграм|instagram/i):upward(.post)
+
+! 18 125 813 (wordstat.yandex.ru от 06.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/айфон|iphone/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/айфон|iphone/i):upward(.post)
+
+! 12 818 919 (wordstat.yandex.ru от 06.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/ватсап|whatsapp/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/ватсап|whatsapp/i):upward(.post)
+
+! 2 831 734 (wordstat.yandex.ru от 06.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/фейсбук|facebook/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/фейсбук|facebook/i):upward(.post)
+
+! 1 693 367 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/(^|\W)xbox(\W|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/(^|\W)xbox(\W|$)/i):upward(.post)
+
+! 1 332 579 (wordstat.yandex.ru от 06.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/твиттер|twitter/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/твиттер|twitter/i):upward(.post)
+
+! 1 178 528 (wordstat.yandex.ru от 06.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/вайбер|(^|\W)viber(\W|$)/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/вайбер|(^|\W)viber(\W|$)/i):upward(.post)
+
+! 732 119 (wordstat.yandex.ru от 04.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/playstation/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/playstation/i):upward(.post)
+
+! 612 122 (wordstat.yandex.ru от 06.10.2021)
+vk.com##:matches-path(/feed)#main_feed .wall_text:has-text(/макбук|macbook/i):upward(.post)
+vk.com##:matches-path(/search)#results .wall_text:has-text(/макбук|macbook/i):upward(.post)
