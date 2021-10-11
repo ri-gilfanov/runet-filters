@@ -117,6 +117,10 @@ vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href
 vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-36543493_"]):upward(.post)
 vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-36543493_"]):upward(.post)
 
+! 12.10.2021 / 28 291
+vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-65222007_"]):upward(.post)
+vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-65222007_"]):upward(.post)
+
 ! 01.10.2021 / 27 922
 vk.com##:matches-path(/feed)#main_feed .post_date,#main_feed .wall_text:has(a[href^="/wall-150982093_"]):upward(.post)
 vk.com##:matches-path(/search)#results .post_date,#results .wall_text:has(a[href^="/wall-150982093_"]):upward(.post)
